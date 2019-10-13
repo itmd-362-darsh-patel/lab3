@@ -197,6 +197,11 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
   text-align: center;   
+  font-family: 'Be Vietnam', Arial, sans-serif;	
+}
+
+input[type=submit] {
+  font-family: 'Be Vietnam', Arial, sans-serif;		
 }
 
 label {
